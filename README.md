@@ -42,7 +42,8 @@ Each row represents a house listing with the following features:
 
 ### 🔥 Correlation Heatmap
 
-![Correlation Heatmap](./correlation_heatmap.png)
+<img width="1223" height="957" alt="image" src="https://github.com/user-attachments/assets/ee98e69c-9a83-4a9f-b5f5-a71e6d3f19a0" />
+
 
 Key Observations:
 - `Square_Feet` and `Num_Bedrooms` have the strongest positive correlation with `Price` (0.56).
